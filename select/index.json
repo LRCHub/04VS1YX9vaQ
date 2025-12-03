@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "オリオンとスパンコール",
+  "base_artist": "豊崎愛生",
+  "createdAt": "2025-12-03T09:32:47.785469Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オリオンとスパンコール",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/01_オリオンとスパンコール_豊崎_愛生.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オリオンとスパンコール",
+      "artist": "豊崎愛生",
+      "has_synced": false,
+      "path": "select/02_オリオンとスパンコール_豊崎愛生.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オリオンとスパンコール",
+      "artist": "Aki Toyosaki",
+      "has_synced": false,
+      "path": "select/03_オリオンとスパンコール_Aki_Toyosaki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オリオンとスパンコール",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_01_オリオンとスパンコール_豊崎_愛生.txt"
+    }
+  ]
+}
